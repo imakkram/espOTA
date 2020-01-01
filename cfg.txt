@@ -1,2 +1,2 @@
-https://raw.githubusercontent.com/Akram12911/Esp32bin/master/Blink.ino.esp32.bin
+URL:https://raw.githubusercontent.com/Akram12911/Esp32bin/master/Blink.ino.esp32.bin
 version:2
