@@ -1,4 +1,4 @@
-https://github.com/imakkram/espOTA/raw/master/Blink.ino.esp32.bin
+https://raw.githubusercontent.com/Akram12911/Esp32bin/master/Blink.ino.esp32.bin
 2
 a2fbf5835de079474e820ceda2ca9986
 1.1
